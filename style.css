@@ -78,3 +78,8 @@ nav ul li {
     color: #030b07;
     text-decoration: underline;
 }
+.test {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
